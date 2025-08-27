@@ -1,4 +1,4 @@
-## Goku Drinking Coffee
+## Goku Drinking Coffee Preview
 
 ![Goku Drinking Coffee](preview.jpg)
 
@@ -7,7 +7,7 @@
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-https://github.com/hashirsajid58200p/goku-drinking-coffee-grub-theme.git
+git clone https://github.com/hashirsajid58200p/goku-drinking-coffee-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
