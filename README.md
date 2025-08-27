@@ -7,11 +7,11 @@
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
+https://github.com/hashirsajid58200p/goku-drinking-coffee-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
-cd forest-dawn-grub-theme
+cd goku-drinking-coffee-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
